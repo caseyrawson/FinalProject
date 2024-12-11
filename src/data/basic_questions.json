@@ -1,0 +1,11 @@
+ [{
+    "id":1,
+    "question": "What is the capital of Connecticut?",
+    "answers": [ { "Stamford":false }, { "Storrs":false }, { "Hartford":true } ]
+  },
+  {
+    "id":2,
+    "question": "What is the square root of 16?",
+    "answers": [{ "4":true }, { "8":false }, { "16":false }]
+  }
+]
