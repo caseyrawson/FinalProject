@@ -7,5 +7,10 @@
     "id":2,
     "question": "What is the square root of 16?",
     "answers": [{ "4":true }, { "8":false }, { "16":false }]
+  },
+  {
+    "id":3,
+    "question": "What type of number is 101?",
+    "answers": [{ "prime":true }, { "composite":false }, { "neigher":false }, { "both":false }]
   }
 ]

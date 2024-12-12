@@ -2,4 +2,9 @@ body {
     background-color: lightblue;
     color: darkblue;
     font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }        
